@@ -1,6 +1,6 @@
 # react-explorer-addons
 
-![feature Prompt](images/icon/ReactExplorerAddonsIcon.png)
+![feature Prompt](https://github.com/ka05/react-explorer-addons/raw/master/images/icon/ReactExplorerAddonsIcon.png)
 
 This extension adds context menu items for creating the directory structures and file templates for React Stateless and Redux connected Components.
 
@@ -11,11 +11,11 @@ Creates the following context menu items for directories in the EXPLORER pane in
 - Create Basic React Component
 - Create Redux React Component
 
-![feature Context](images/feature-context-menu.png)
+![feature Context](https://github.com/ka05/react-explorer-addons/raw/master/images/feature-context-menu.png)
 
 The extension will themn prompt you for the Component Name and will be injected into the React template.
 
-![feature Prompt](images/feature-prompt.png)
+![feature Prompt](https://github.com/ka05/react-explorer-addons/raw/master/images/feature-prompt.png)
 
 The following directory structure will be created for:
 
