@@ -1,6 +1,6 @@
 # react-explorer-addons README
 
-This is the README for your extension "react-explorer-addons". After writing up a brief description, we recommend including the following sections.
+This extension adds context menu items for creating the directory structures and file templates for React Stateless and Redux connected Components.
 
 ## Features
 
