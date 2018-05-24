@@ -4,6 +4,7 @@
     "description": "Adds context menu items for creating the directory structures for React Components.",
     "version": "0.0.1",
     "publisher": "Envative",
+    "repository":"https://github.com/ka05/react-explorer-addons",
     "icon":"https://github.com/ka05/react-explorer-addons/raw/master/images/icon/ReactExplorerAddonsIcon.png",
     "engines": {
         "vscode": "^1.23.0"
