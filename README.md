@@ -1,5 +1,7 @@
 # react-explorer-addons
 
+![feature Prompt](images/icon/ReactExplorerAddonsIcon.png)
+
 This extension adds context menu items for creating the directory structures and file templates for React Stateless and Redux connected Components.
 
 ## Features
